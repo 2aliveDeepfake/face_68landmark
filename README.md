@@ -3,7 +3,7 @@
 
 얼굴영역 분할과 코드 통합 예정
 
-실행 환경 : 리눅스 
+실행 환경 : 리눅스 (벤치실 gpu컴퓨터에 환경 세팅 완료)
 
 실행에 필요한 라이브러리  
 PyTorch >= 0.4.1 (PyTorch v1.1.0 is tested successfully on macOS and Linux.)  
